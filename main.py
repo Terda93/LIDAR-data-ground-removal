@@ -1,11 +1,8 @@
 import pprint
 import open3d as o3d
 import numpy as np
-import pcl
-from pypcd import pypcd
 import os
 import random
-from BartekVojta.ground_removal_kitti import *
 from copy import copy
 import time
 from remove_ground_and_dron import *
